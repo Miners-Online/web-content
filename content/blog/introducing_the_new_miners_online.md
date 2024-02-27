@@ -2,6 +2,7 @@
 title: Introducing the new Miners Online
 date: 2024-02-25T18:00:06.507Z
 description: "Unveiling the Next Chapter: Introducing the New Miners Online Website, Your Gateway to Innovation and Creativity."
+authors: ["ajh123"]
 ---
 Miners Online, a hidden gem in the realm of gaming enthusiasts, has recently unveiled its brand-new website, ushering in a new era of accessibility and exploration for its diverse range of offerings. While many might not be familiar with Miners Online, this dynamic platform has been quietly shaping the landscape of gaming, producing not only Minecraft modpacks and mods but also developing its own innovative software and games.
 
